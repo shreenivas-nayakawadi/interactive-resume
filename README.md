@@ -2,6 +2,8 @@
 
 A modern, responsive, and interactive resume website built with HTML, CSS, and JavaScript. This project showcases my professional experience, education, skills, and projects in an elegant and user-friendly interface.
 
+[🌐 Live Demo](https://interactive-resume-rust-pi.vercel.app/)
+
 ## Features
 
 - 🌓 Dark/Light theme toggle
